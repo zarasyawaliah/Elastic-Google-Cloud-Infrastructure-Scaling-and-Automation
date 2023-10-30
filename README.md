@@ -77,3 +77,17 @@ Google Cloud Observability mencakup beberapa elemen kunci, termasuk:
 6. *Dashboard dan Visualisasi*: Dashboard dan alat visualisasi memungkinkan Anda untuk menyajikan data performa dalam bentuk grafik, visualisasi, dan laporan yang mudah dimengerti.
 
 Google Cloud Observability membantu organisasi dalam menjaga kinerja aplikasi dan infrastruktur mereka, mengidentifikasi masalah dengan cepat, dan memberikan pengalaman yang lebih baik kepada pengguna akhir. Ini juga membantu dalam pemecahan masalah, perencanaan kapasitas, dan pengambilan keputusan yang informasional. Google Cloud menawarkan berbagai layanan dan alat yang mendukung observabilitas di lingkungan komputasi awan mereka.
+
+
+### SLI (Service Level Indicator), SLO (Service Level Objective), dan SLA (Service Level Agreement) adalah konsep yang terkait dengan mengukur dan menetapkan tingkat layanan dalam konteks layanan teknologi atau bisnis. Berikut penjelasan singkat untuk masing-masing konsep:
+
+1. **Service Level Indicator (SLI)**: SLI adalah metrik yang digunakan untuk mengukur kinerja layanan. Ini adalah ukuran yang spesifik dan terukur yang menggambarkan bagaimana suatu layanan berperforma. Contoh SLI bisa mencakup persentase waktu sistem tersedia, waktu respon rata-rata, atau jumlah kesalahan yang terjadi.
+
+2. **Service Level Objective (SLO)**: SLO adalah target yang diinginkan untuk SLI. Ini adalah tingkat layanan yang diharapkan atau dijanjikan yang harus dicapai oleh penyedia layanan. SLO digunakan sebagai dasar untuk mengukur apakah layanan mencapai tingkat kinerja yang diharapkan.
+
+3. **Service Level Agreement (SLA)**: SLA adalah perjanjian formal antara penyedia layanan dan pelanggan yang menetapkan komitmen penyedia layanan terkait dengan tingkat layanan yang akan diberikan. SLA biasanya mencakup SLO-slo yang harus dipatuhi, serta konsekuensi jika tingkat layanan tersebut tidak terpenuhi.
+
+Dalam rangkaian ini, SLI adalah pengukuran dasar, SLO adalah target yang ingin dicapai, dan SLA adalah komitmen formal yang diatur dalam kontrak antara penyedia layanan dan pelanggan. SLA biasanya memuat SLO yang harus dicapai, sehingga pelanggan memiliki ekspektasi yang jelas terkait dengan layanan yang mereka terima. Jika SLO dalam SLA tidak tercapai, ada konsekuensi yang biasanya diatur dalam SLA tersebut.
+
+
+- SLO,SLO,SLA dengan ekosistem GCP
